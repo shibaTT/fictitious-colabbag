@@ -6,4 +6,5 @@ HTML5, CSS3, Sass(SCSS), JavaScript を使用して作成されています
 
 クラス名の命名規則には FLOCSS を採用しています
 
-近日中にサーバーにアップロードする予定です
+### ページ
+https://shibatt.github.io/fictitious-colabbag/
